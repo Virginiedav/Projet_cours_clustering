@@ -17,6 +17,3 @@ Les clusters identifiés permettent de distinguer plusieurs groupes de pays selo
 - **Cluster 2** : pays à potentiel moyen, nécessitant des stratégies adaptées  
 - **Cluster 3** : pays à faible potentiel  
 
-Exemple de visualisation :  
-![Clusters](images/clustering_plot.png)
-
