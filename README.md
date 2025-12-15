@@ -1,16 +1,22 @@
-## Hi there 👋
+# Analyse des marchés pour l’exportation de viande de volaille 🐔
 
-<!--
-**Virginie2017/Virginie2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contexte 🌍
+L’objectif de ce projet est d’**identifier les marchés internationaux les plus prometteurs** pour l’exportation de viande de volaille.  
+Pour cela, j’ai commencé par une **analyse exploratoire des données** afin de sélectionner les pays les plus pertinents sur la base de critères économiques et commerciaux.  
+Ensuite, j’ai appliqué des **techniques de clustering** pour segmenter ces pays et identifier les groupes présentant le **plus fort potentiel d’exportation**.
 
-Here are some ideas to get you started:
+## 🔬 Méthodes
+1. **Nettoyage et préparation des données** : traitement des valeurs manquantes, standardisation des variables.  
+2. **Analyse exploratoire (EDA)** : visualisation des indicateurs économiques et commerciaux pour identifier les pays à fort potentiel.  
+3. **Clustering K-Means** : segmentation des pays en groupes homogènes selon leur potentiel d’exportation.  
+4. **Visualisation et interprétation** : représentation graphique des clusters pour faciliter la prise de décision.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Résultats
+Les clusters identifiés permettent de distinguer plusieurs groupes de pays selon leur potentiel d’exportation :  
+- **Cluster 1** : pays à fort potentiel et marché attractif  
+- **Cluster 2** : pays à potentiel moyen, nécessitant des stratégies adaptées  
+- **Cluster 3** : pays à faible potentiel  
+
+Exemple de visualisation :  
+![Clusters](images/clustering_plot.png)
+
