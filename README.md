@@ -14,6 +14,6 @@ Ensuite, j’ai appliqué des **techniques de clustering** pour segmenter ces pa
 ## 📊 Résultats
 Les clusters identifiés permettent de distinguer plusieurs groupes de pays selon leur potentiel d’exportation :  
 - **Cluster 1** : pays à fort potentiel et marché attractif  
-- **Cluster 2** : pays à potentiel moyen, nécessitant des stratégies adaptées  
-- **Cluster 3** : pays à faible potentiel  
+- **Cluster 2** : pays avec une économie émergente mais à forte croissance 
+- **Cluster 3** : pays avec économie de marché très libéral, puissance technologie et financière mondiale
 
